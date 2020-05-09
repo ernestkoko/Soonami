@@ -1,0 +1,2 @@
+rootProject.name='Sonami'
+include ':app'
